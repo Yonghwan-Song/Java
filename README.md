@@ -1,1 +1,1 @@
-# These are java workshops I did in college
+# These are Java workshops I did in college
